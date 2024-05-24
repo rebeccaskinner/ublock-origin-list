@@ -1,0 +1,139 @@
+! 2023-02-14 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(3)
+
+! 2023-02-21 https://erininthemorn.substack.com
+erininthemorn.substack.com##.frontend-components-SubscribePrompt-module__background--2DQPj
+erininthemorn.substack.com##.frontend-components-SubscribePrompt-module__subscribeDialog--2_6UY.frontend-pencraft-FlexBox-module__flex-align-center--21WCV.frontend-pencraft-FlexBox-module__flex-direction-column--2sph3.frontend-pencraft-FlexBox-module__flex--fK-9V
+
+! 2023-02-26 https://www.ft.com
+www.ft.com##.n-content-layout__container
+
+! 2023-03-18 https://bandcamp.com
+bandcamp.com##.salesfeed.bd-section
+
+! 2023-04-01 https://old.reddit.com
+||external-preview.redd.it/d_iEgxf0U2HyL4I98bb-rC8xOUGBZBbwixunNZ3Kgw0.gif?width=266&height=200&v=enabled&s=2e92cef3c2ce2e503088bbed09fb1976a247521c$image
+
+! 2023-04-15 https://twitter.com
+twitter.com##.r-1hycxz.r-1udh08x.r-zso239.r-aqfbo4.css-1dbjc4n > .r-1pi2tsx.css-1dbjc4n
+
+! 2023-07-23 https://www.linkedin.com
+www.linkedin.com###feed-news-module
+
+! 2023-09-03 https://www.instacart.com
+||display.instacart.com/cdn-cgi/image/dpr=1,q=*0,sharpen=1,f=auto,animate=false,metadata=copyright/public/*-1.jpg$image
+www.instacart.com###\36 5113a6b-4e5a-4cfd-ac19-30abcc401d5c
+www.instacart.com##div.e-1dclc8o:nth-of-type(3)
+||display.instacart.com/cdn-cgi/image/dpr=1,q=*0,sharpen=1,f=auto,animate=false,metadata=copyright/public/*-1.jpg$image
+www.instacart.com###bb11cc3f-5717-40bb-885f-a06ece64918e
+www.instacart.com##.e-z4hfda > div > .e-7nkw5n
+www.instacart.com###\33 34b4a61-b308-4b67-9d53-f5aa1245551c
+www.instacart.com###\30 95230c7-eae5-4891-b6df-aa1cfd3afbfe
+www.instacart.com###cb52f4ee-0d66-4bbf-b402-7a6681401498
+www.instacart.com###fdef0af4-d59e-4a08-a5b7-2dd60ff409f4
+www.instacart.com###\34 9a6cbc4-9b1c-47c1-9ae8-ce9ef4559898
+www.instacart.com###ed3beca0-c948-4800-a219-7d41101b8aa0
+www.instacart.com###\36 7d35f13-29dc-45b5-831c-36eaa16a74b6
+www.instacart.com###ebf36577-30ae-4225-bf6c-3484f2cf6d24
+www.instacart.com###\33 2f79df3-1206-4e04-81ad-aa8f3358c033
+www.instacart.com###\32 8ea2020-6cce-412a-8177-d5f65e3d1a07
+www.instacart.com##article:has(a[href*="interaction_id"])
+
+! 2023-09-10 https://www.imdb.com
+www.imdb.com##.ipc-page-grid__item--span-1.ipc-page-grid__item.bduFjF.sc-f2e21260-0
+
+! 2023-09-11 https://www.instacart.com
+www.instacart.com###\30 307ba9c-7361-4c95-805d-4da8809b2196
+www.instacart.com###bbed66a1-21fe-4b52-8cf7-d69cfc8103fb
+www.instacart.com###f8d9eb16-1530-4f35-94d8-0155ebf7a3eb
+www.instacart.com###\37 8747e12-fc25-4fb4-80cf-ed43ef8582cf
+
+etsy.com##li.wt-list-unstyled div.v2-listing-card__info > div.wt-text-caption.wt-text-truncate > :matches-css(overflow:visible):has-text(/^Ad/i):upward(li):remove()
+
+target.com##.kmNUvV.styles__StyledRowWrapper-sc-z8946b-1 > .jZzlfv.styles__StyledRow-sc-wmoju4-0 > :has-text(/^Sponsored/)
+target.com##.kmNUvV.styles__StyledRowWrapper-sc-z8946b-1 > .jZzlfv.styles__StyledRow-sc-wmoju4-0 > :has-text(/Sponsored/)
+
+! 2023-09-25 https://neohaskell.org
+neohaskell.org##.bg-white.sm\:rounded-2xl.overflow-y-auto.max-w-xl.w-full.max-h-full
+
+! 2023-09-30 https://subnautica.fandom.com
+||static.wikia.nocookie.net/subnautica/images/0/08/Site-background-dark/revision/latest?cb=20220127230241$image
+||static.wikia.nocookie.net/subnautica/images/0/08/Site-background-dark/revision/latest?cb=20220127230241$image
+subnautica.fandom.com##.page__right-rail
+
+etsy.com##li.wt-list-unstyled div.v2-listing-card__info > div.wt-text-caption.wt-text-truncate > :matches-css(overflow:visible):has-text(/^Ad/i):upward(li):remove()
+
+! 2023-11-03 https://www.amazon.com
+||m.media-amazon.com/images/I/71wbHpkQukL._AC_SR3000,1200_.jpg$image
+||m.media-amazon.com/images/I/71wbHpkQukL._AC_SR3000,1200_.jpg$image
+||m.media-amazon.com/images/I/71wbHpkQukL._AC_SR3000,1200_.jpg$image
+www.amazon.com##._dv-web-live-events-streaming-widget_style_lswDpIngressLink__2G4Vp.a-link-normal
+||m.media-amazon.com/images/I/71fc6Ii1u9L._SX3000_.jpg$image
+||m.media-amazon.com/images/I/71wbHpkQukL._AC_SR1500,600_.jpg$image
+||m.media-amazon.com/images/I/71wbHpkQukL._AC_SR1500,600_.jpg$image
+www.amazon.com##.lsw-link-container._dv-web-live-events-streaming-widget_style_lswLinkContainer__1O725
+! www.amazon.com##.a-carousel
+
+! 2023-11-03 https://www.newegg.com
+www.newegg.com###homepage-nwegglive
+
+linkedin.com##li:has-text(Promoted)
+linkedin.com##div.full-height:has-text(/Suggested/)
+linkedin.com##div.full-height:has-text(/Expert answers/)
+
+! 2023-11-15 https://www.newegg.com
+www.newegg.com###item_cell_22-234-429_1_0
+
+! 2023-11-23 https://twitter.com
+twitter.com##.r-1udh08x.r-1hycxz.r-zso239.r-aqfbo4.css-175oi2r > .r-1pi2tsx.css-175oi2r
+twitter.com##.r-1udh08x.r-1hycxz.r-fif9oo.r-aqfbo4.css-175oi2r
+
+# Target
+# www.target.com##div:has-text(Sponsored)
+
+! 2023-12-19 https://www.instacart.com
+www.instacart.com##li:has(img[alt*=Sponsored])
+www.instacart.com##li:has(img[alt*=Sponsored])
+www.instacart.com###expanded-search-results
+
+! 2023-12-29 https://www.linkedin.com
+www.linkedin.com##div.full-height:has-text(/Expert answers/)
+
+! 2023-12-30 https://www.doordash.com
+www.doordash.com##div > div > div > div > div > div > div > div > div > div > div > div> div > div >:has(span:has-text(/^Ad$/))
+
+! 2023-12-31 https://www.polygon.com
+www.polygon.com##div[data-analytics-placement]
+
+! 2024-01-03 https://www.instacart.com
+www.instacart.com##section:has-text(/nsored/)
+www.instacart.com##.e-cdyqd7
+
+! 2024-01-26 https://www.linkedin.com
+www.linkedin.com##div.full-height:has-text(/Promoted/)
+
+! 2024-03-14 https://zajacgrp.com
+zajacgrp.com##.et_pb_bg_layout_dark.et_pb_text_align_center.et_pb_promo.bc-box-shadow.et_pb_cta_5_tb_body.et_pb_module
+
+! 2024-03-26 https://www.gomomento.com
+www.gomomento.com##.blog-post_share-wrap-with-ad
+
+! 2024-04-21 https://www.doordash.com
+www.doordash.com##.fXUluK.gJXwiP.jojZEi.dNQHPi.sc-108ab6af-2.sc-108ab6af-1.sc-1d205cf7-0.sc-2e4bc36c-0
+www.doordash.com##span:has-text(/Sponsored/):upward(8)
+
+! 2024-04-22 https://www.ubereats.com
+www.ubereats.com##div:matches-attr(data-testid="billboard-grid")
+
+! 2024-04-24 https://www.instacart.com
+www.instacart.com##img:matches-attr(alt=/onsored/):upward(4)
+www.instacart.com##h2:has-text(/onsored/):upward(3)
+
+! 2024-05-05 https://www.amazon.com
+||m.media-amazon.com/images/I/71CMRfDYqZL._SX3000_.jpg$image
+
+! 2024-05-11 https://www.instacart.com
+www.instacart.com##img:matches-attr(alt=/sponserd/):upward(3)
+
+! 2024-05-24 https://www.instacart.com
+www.instacart.com##img:matches-attr(src=/badge/):upward(3)
