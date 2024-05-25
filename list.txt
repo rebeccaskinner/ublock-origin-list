@@ -137,3 +137,6 @@ www.instacart.com##img:matches-attr(alt=/sponserd/):upward(3)
 
 ! 2024-05-24 https://www.instacart.com
 www.instacart.com##img:matches-attr(src=/badge/):upward(3)
+
+! 2024-05-26 https://www.amazon.com
+www.amazon.com##div:matches-attr(class=/sponsored/):upward(3)
